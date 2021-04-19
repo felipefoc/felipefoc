@@ -1,6 +1,6 @@
 ## Felipe Mayer :rocket:
 
-I'm a web developer studying and loving Python :snake:
+I'm a Python Web Developer :snake:
 
 ## At this moment i'm learning
   * :heavy_check_mark: Flask
