@@ -2,14 +2,14 @@
 
 I'm a Python Web Developer :snake:
 
-## At this moment i'm learning
-  * :heavy_check_mark: Flask
-  * :pencil: Django
+## Stacks
+  * :heavy_check_mark: Django
+  * :pencil: Flask
   * :pencil: JavaScript ( jQuery and Ajax )
-  * :heavy_check_mark: Relational Databases
-  * :mag_right: OpenCV
+  * :heavy_check_mark: PostgreSQL
+  * :mag_right: Docker
   * :computer: PyAutoGUI
-  * :bulb: Much more.
+  * :bulb: Selenium
   
 # Preview of my projects
 <a href="https://django-todo-lists.herokuapp.com/"><h1 align="center">Django ToDo List</h1></a> 
